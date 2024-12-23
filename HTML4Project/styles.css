@@ -50,3 +50,8 @@ ul li {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+#portfolio table {
+    width: 100%;
+    text-align: center;
+}
